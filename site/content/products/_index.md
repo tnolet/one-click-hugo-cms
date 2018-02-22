@@ -1,6 +1,5 @@
 ---
-title: Our Coffee
-type: products
+title: Our Super Nice  Coffee
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -10,7 +9,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/about-jumbotron.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -98,5 +97,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
